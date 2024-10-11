@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\bin\Debug\net8.0\AutomationService.Domain.deps.json
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\bin\Debug\net8.0\AutomationService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\bin\Debug\net8.0\AutomationService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\refint\AutomationService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\AutomationService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.AutomationService\AutomationService.Domain\obj\Debug\net8.0\ref\AutomationService.Domain.dll

@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\bin\Debug\net8.0\DeviceService.Domain.deps.json
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\bin\Debug\net8.0\DeviceService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\bin\Debug\net8.0\DeviceService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\refint\DeviceService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\DeviceService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Domain\obj\Debug\net8.0\ref\DeviceService.Domain.dll

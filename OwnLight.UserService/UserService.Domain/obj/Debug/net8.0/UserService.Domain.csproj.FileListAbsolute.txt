@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\bin\Debug\net8.0\UserService.Domain.deps.json
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll

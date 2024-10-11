@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.UserService\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll

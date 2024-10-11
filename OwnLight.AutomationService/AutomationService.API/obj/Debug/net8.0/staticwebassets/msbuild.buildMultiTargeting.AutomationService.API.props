@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutomationService.API.props" />
+</Project>

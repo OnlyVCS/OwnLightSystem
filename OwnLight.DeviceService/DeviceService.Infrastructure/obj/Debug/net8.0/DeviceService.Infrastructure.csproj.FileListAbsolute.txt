@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\bin\Debug\net8.0\DeviceService.Infrastructure.deps.json
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\bin\Debug\net8.0\DeviceService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\bin\Debug\net8.0\DeviceService.Infrastructure.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\bin\Debug\net8.0\DeviceService.Domain.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\bin\Debug\net8.0\DeviceService.Domain.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceSe.EB6473CD.Up2Date
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\refint\DeviceService.Infrastructure.dll
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\DeviceService.Infrastructure.pdb
+C:\Users\T-Gamer\Desktop\github_projects\OwnLightSystem\OwnLight.DeviceService\DeviceService.Infrastructure\obj\Debug\net8.0\ref\DeviceService.Infrastructure.dll

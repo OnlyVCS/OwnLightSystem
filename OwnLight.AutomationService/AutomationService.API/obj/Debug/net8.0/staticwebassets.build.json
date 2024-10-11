@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "loLDAwfOFoAixzFTBr7fkeku2533rqeSRn/tM0kkd0k=",
+  "Source": "AutomationService.API",
+  "BasePath": "_content/AutomationService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
